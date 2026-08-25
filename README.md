@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>✦ Farhan Deshmukh ✦</h1>
+  <p><i>QA Automation Engineer & Software Tester</i> 🧪✨</p>
 
-<!--
-**farhandeshmukh17/farhandeshmukh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <code>Java</code> • 
+    <code>Selenium</code> • 
+    <code>TestNG</code> • 
+    <code>API Testing</code> • 
+    <code>Maven</code>
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://linkedin.com/in/farhandeshmukh17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:farhandeshmukh05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
