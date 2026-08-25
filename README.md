@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✦ Farhan Deshmukh ✦</h1>
-  <p><i>QA Automation Engineer & Software Tester</i> 🧪✨</p>
+  <p><i>QA Engineer Automation & Manual Tester</i> 🧪✨</p>
 
   <p>
     <code>Java</code> • 
