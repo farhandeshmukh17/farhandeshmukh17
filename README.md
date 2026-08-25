@@ -10,6 +10,9 @@
     <code>Maven</code>
   </p>
 
+  <a href="https://farhandeshmukh-qa-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/farhandeshmukh17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
